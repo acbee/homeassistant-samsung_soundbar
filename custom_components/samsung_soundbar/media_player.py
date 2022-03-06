@@ -14,7 +14,7 @@ _LOGGER = logging.getLogger(__name__)
 
 VERSION = '1.0.0'
 
-DOMAIN = "samwam"
+DOMAIN = "samsung_multi_room"
 
 MIN_TIME_BETWEEN_SCANS = timedelta(seconds=3)
 MIN_TIME_BETWEEN_FORCED_SCANS = timedelta(seconds=3)
