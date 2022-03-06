@@ -1,6 +1,6 @@
 {
-  "domain": "samsung_soundbar",
-  "name": "Samsung Soundbar",
+  "domain": "samsung_multi_room",
+  "name": "Samsung Multi Room",
   "documentation": "https://github.com/IDmedia/hass-samsung_soundbar",
   "dependencies": ["http"],
   "version": "1.0.0",
