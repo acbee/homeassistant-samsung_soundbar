@@ -1,11 +1,11 @@
 {
-  "domain": "samsung_multi_room",
-  "name": "Samsung Multi Room",
-  "documentation": "https://github.com/IDmedia/hass-samsung_soundbar",
+  "domain": "samsung_soundbar",
+  "name": "Samsung Sound Bar",
+  "documentation": "https://github.com/acbee/homeassistant-samsung_soundbar",
   "dependencies": ["http"],
   "version": "1.0.0",
   "codeowners": [
-    "@IDmedia"
+    "@acbee"
   ],
   "requirements": [
     "xmltodict==0.11.0"
