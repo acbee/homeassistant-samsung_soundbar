@@ -14,7 +14,7 @@ _LOGGER = logging.getLogger(__name__)
 
 VERSION = '1.0.0'
 
-DOMAIN = "samsung_multi_room"
+DOMAIN = "samsung_soundbar"
 
 MIN_TIME_BETWEEN_SCANS = timedelta(seconds=3)
 MIN_TIME_BETWEEN_FORCED_SCANS = timedelta(seconds=3)
@@ -51,9 +51,9 @@ MULTI_ROOM_SOURCE_TYPE = [
   'wifi'
 ]
 
-DEFAULT_NAME = 'Samsung Soundbar'
-DEFAULT_PORT = '55001'
-DEFAULT_POWER_OPTIONS = False
+DEFAULT_NAME = 'Samsung Sound Bar'
+DEFAULT_PORT = '56001'
+DEFAULT_POWER_OPTIONS = True
 DEFAULT_MAX_VOLUME = '40'
 BOOL_OFF = 'off'
 BOOL_ON = 'on'
